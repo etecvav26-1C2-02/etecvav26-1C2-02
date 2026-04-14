@@ -2,11 +2,11 @@
 
 **Ano Letivo: 2026**
 
-Repositório oficial da **Turma 1C2** do curso Técnico em **Desenvolvimento de Sistemas** da **ETEC Vasco Antônio Venchiarutti (ETEC VAV)** - Votuporanga/SP.
+Repositório oficial do grupo da **turma 1C2** do curso Técnico em **Desenvolvimento de Sistemas** da **ETEC Vasco Antônio Venchiarutti (ETEC VAV)** - Jundiaí/SP.
 
 ### Sobre o Grupo
 - **Integrantes:** Cauã, Miguel, Daniel e Valentino
-- **Curso:** Técnico em Desenvolvimento de Sistemas (Integrado ao Ensino Médio ou Modular)
+- **Curso:** Técnico em Desenvolvimento de Sistemas (Integrado ao Ensino Médio)
 - **Instituição:** ETEC Vasco Antônio Venchiarutti – Centro Paula Souza
 
 ---
@@ -41,20 +41,6 @@ Aqui você encontrará:
 - **Java** / **Python** (conforme o módulo)
 - Ferramentas de versionamento: **Git** + **GitHub**
 
----
-
-## 📌 Como contribuir (para os integrantes)
-
-1. Faça um **fork** do repositório desejado (se necessário)
-2. Crie uma **branch** com o seu nome ou nome do exercício (`feat/nome-do-aluno-exercicio-05`)
-3. Faça o **commit** com mensagens claras
-4. Abra um **Pull Request** descrevendo o que foi feito
-
-**Padrão de commit sugerido:**
-- `feat:` nova funcionalidade
-- `fix:` correção de bug
-- `docs:` alteração na documentação
-- `refactor:` refatoração de código
 
 ---
 
