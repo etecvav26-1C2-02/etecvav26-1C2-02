@@ -1,16 +1,78 @@
-## Hi there 👋
+# 👨‍💻 ETEC VAV - Turma 1C2 | Desenvolvimento de Sistemas
 
-<!--
-**etecvav26-1C2-02/etecvav26-1C2-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ano Letivo: 2026**
 
-Here are some ideas to get you started:
+Repositório oficial da **Turma 1C2** do curso Técnico em **Desenvolvimento de Sistemas** da **ETEC Vasco Antônio Venchiarutti (ETEC VAV)** - Votuporanga/SP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre o Grupo
+- **Integrantes:** Cauã, Miguel, Daniel e Valentino
+- **Curso:** Técnico em Desenvolvimento de Sistemas (Integrado ao Ensino Médio ou Modular)
+- **Instituição:** ETEC Vasco Antônio Venchiarutti – Centro Paula Souza
+
+---
+
+## 🎯 Objetivo
+
+Este espaço foi criado para organizar e versionar todos os projetos, exercícios, trabalhos e materiais desenvolvidos durante o curso.
+
+Aqui você encontrará:
+- Projetos por bimestre
+- Exercícios de lógica de programação
+- Trabalhos em Portugol, Java, Banco de Dados, Desenvolvimento Web, entre outros
+- Materiais complementares e documentações
+
+---
+
+## 📁 Repositórios do Grupo
+
+- **[1-BIM](https://github.com/etecvav26-1C2-02/1-BIM)** — Projetos e exercícios do 1º Bimestre (Portugol e lógica)
+- **[2-BIM](https://github.com/etecvav26-1C2-02/2-BIM)** — Projetos e atividades do 2º Bimestre
+
+*(Mais repositórios serão adicionados conforme o andamento do curso)*
+
+---
+
+## 🛠️ Tecnologias que estamos aprendendo
+
+- **Lógica de Programação** → Portugol Studio
+- **Programação Orientada a Objetos**
+- **Banco de Dados** (MySQL / SQL)
+- **Desenvolvimento Web** (HTML, CSS, JavaScript)
+- **Java** / **Python** (conforme o módulo)
+- Ferramentas de versionamento: **Git** + **GitHub**
+
+---
+
+## 📌 Como contribuir (para os integrantes)
+
+1. Faça um **fork** do repositório desejado (se necessário)
+2. Crie uma **branch** com o seu nome ou nome do exercício (`feat/nome-do-aluno-exercicio-05`)
+3. Faça o **commit** com mensagens claras
+4. Abra um **Pull Request** descrevendo o que foi feito
+
+**Padrão de commit sugerido:**
+- `feat:` nova funcionalidade
+- `fix:` correção de bug
+- `docs:` alteração na documentação
+- `refactor:` refatoração de código
+
+---
+
+## 📄 Licença
+
+Este repositório é destinado a fins educacionais. Todos os direitos pertencem aos alunos e à ETEC VAV.
+
+---
+
+## 📞 Contato
+
+- **Organização:** [etecvav26-1C2-02](https://github.com/etecvav26-1C2-02)
+- **Curso:** Desenvolvimento de Sistemas – ETEC VAV
+
+---
+
+**"Programar é construir o futuro, um algoritmo por vez."** 🚀
+
+---
+
+*Atualizado em Abril de 2026*
