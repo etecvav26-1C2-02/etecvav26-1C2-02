@@ -38,7 +38,7 @@ Aqui você encontrará:
 - **Programação Orientada a Objetos**
 - **Banco de Dados** (MySQL / SQL)
 - **Desenvolvimento Web** (HTML, CSS, JavaScript)
-- **Java** / **Python** (conforme o módulo)
+- **Java** / **Python** 
 - Ferramentas de versionamento: **Git** + **GitHub**
 
 
