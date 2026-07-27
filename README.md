@@ -27,7 +27,7 @@ Aqui você encontrará:
 
 - **[1-BIM](https://github.com/etecvav26-1C2-02/1-BIM)** — Projetos e exercícios do 1º Bimestre 
 - **[2-BIM](https://github.com/etecvav26-1C2-02/2-BIM)** — Projetos e atividades do 2º Bimestre
-
+- **[3-BIM](https://github.com/etecvav26-1C2-02/3-BIM)** — Projetos e atividades do 3º Bimestre
 *(Mais repositórios serão adicionados conforme o andamento do curso)*
 
 ---
